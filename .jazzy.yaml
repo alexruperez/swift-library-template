@@ -1,0 +1,9 @@
+author: Alex Rupérez
+author_url: https://twitter.com/alexruperez
+clean: true
+copyright: Copyright (c) 2020 Alex Rupérez
+github_file_prefix: https://github.com/alexruperez/LIBRARY-NAME/blob/master
+github_url: https://github.com/alexruperez/LIBRARY-NAME
+root_url: https://alexruperez.github.io/LIBRARY-NAME
+swift_build_tool: spm
+theme: fullwidth

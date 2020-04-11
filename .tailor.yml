@@ -1,0 +1,3 @@
+except:
+  - brace-style
+  - function-whitespace
