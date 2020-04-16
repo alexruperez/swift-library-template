@@ -4,6 +4,7 @@ clean: true
 copyright: Copyright (c) 2020 AUTHOR-NAME
 github_file_prefix: https://github.com/AUTHOR-HANDLE/LIBRARY-NAME/blob/master
 github_url: https://github.com/AUTHOR-HANDLE/LIBRARY-NAME
+module: LIBRARY-NAME
 root_url: https://AUTHOR-HANDLE.github.io/LIBRARY-NAME
 sourcekitten_sourcefile:
   - docs/LIBRARY-NAME.json
