@@ -12,7 +12,7 @@ do
   mv $path ${path//LIBRARY-NAME/$library_name}
 done
 
-for path in $(find . -type f ! -path "./.*/*" ! -name "*.sh" ! -name ".DS_Store")
+for path in $(find . -type f ! -path "./.*/*" ! -name "./generate.sh" ! -name ".DS_Store")
 do
   sed -i "" -e "s/AUTHOR-HANDLE/$author_handle/g" $path
   sed -i "" -e "s/AUTHOR-NAME/$author_name/g" $path

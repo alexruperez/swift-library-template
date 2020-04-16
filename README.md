@@ -7,9 +7,8 @@
 [![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager)
 [![Carthage](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift Action](https://github.com/AUTHOR-HANDLE/LIBRARY-NAME/workflows/Swift/badge.svg)](https://github.com/AUTHOR-HANDLE/LIBRARY-NAME/actions)
-[![Build Status](https://travis-ci.com/AUTHOR-HANDLE/LIBRARY-NAME.svg?branch=master)](https://travis-ci.com/AUTHOR-HANDLE/LIBRARY-NAME)
 [![Coverage](https://codecov.io/gh/AUTHOR-HANDLE/LIBRARY-NAME/branch/master/graph/badge.svg)](https://codecov.io/gh/AUTHOR-HANDLE/LIBRARY-NAME)
-[![Documentation](docs/badge.svg)](https://AUTHOR-HANDLE.github.io/LIBRARY-NAME)
+[![Documentation](https://AUTHOR-HANDLE.github.io/LIBRARY-NAME/badge.svg)](https://AUTHOR-HANDLE.github.io/LIBRARY-NAME)
 
 ## 🌟 Features
 
